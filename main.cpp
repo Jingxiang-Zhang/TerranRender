@@ -1,10 +1,3 @@
-﻿/*
-  CSCI 420 Computer Graphics, USC
-  Assignment 1: Height Fields with Shaders.
-  C++ starter code
-
-  Student username: <type your USC username here>
-*/
 #include "terran.h"
 #define FRAME_SAVE_FOLDER "frame_save_folder"
 
